@@ -1,5 +1,3 @@
-from distutils.command.build_scripts import first_line_re
-
 
 class User:
     def __init__(self, first_name, last_name, email, age):
